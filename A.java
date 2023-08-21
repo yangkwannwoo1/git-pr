@@ -1,6 +1,6 @@
 public Class A() {
     int a = 20;
-    String str = "hello";
+    String str = "컨플릭트1 에서 변경";
 
     public void method1(){
 
